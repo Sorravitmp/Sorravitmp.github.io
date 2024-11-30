@@ -2,4 +2,4 @@
 
 - Sorravit
   - fook
-![sorravit](1731855411346.jpeg)
+![sorravit]()
