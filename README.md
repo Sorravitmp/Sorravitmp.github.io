@@ -1,7 +1,7 @@
 # Welcome to my profile
 - Sorravit meephol
   - fook
-![sorravit](1731855411346.jpeg)
+![sorravit](pic/1731855411346.jpeg)
 
 ---
 
