@@ -5,10 +5,7 @@
 | **CISSP Glossary** | The size of a key, usually measured in bits, that a cryptographic algorithm uses in ciphering or deciphering protected information.<br>**แปลผ่าน ChatGPT:** ขนาดของคีย์ (Key) ซึ่งโดยทั่วไปวัดเป็นบิต ที่อัลกอริทึมการเข้ารหัสใช้ในการเข้ารหัสหรือถอดรหัสข้อมูลที่ได้รับการปกป้อง<br>**แปลผ่าน Gemini:** ขนาดของคีย์ (Key) ซึ่งโดยทั่วไปวัดเป็นบิต ที่อัลกอริทึมการเข้ารหัสใช้ในการเข้ารหัสหรือถอดรหัสข้อมูลที่ได้รับการปกป้อง |
 | **Localazy**      | Key clustering in Localazy provides a unique solution for handling duplicate values without modifying the integration source. By utilizing key clusters, you can save time and resources by eliminating the need to translate the same content multiple times .<br>**แปลผ่าน ChatGPT:** การจัดกลุ่มคีย์ (Key Clustering) ใน Localazy เป็นวิธีการแก้ปัญหาที่ช่วยจัดการกับค่าซ้ำซ้อน (Duplicate Values) โดยไม่ต้องแก้ไขโค้ดต้นทางของการรวมระบบ (Integration Source) ด้วยการใช้กลุ่มคีย์ (Key Clusters) คุณสามารถประหยัดเวลาและทรัพยากรได้ เพราะไม่จำเป็นต้องแปลข้อความที่มีเนื้อหาเหมือนกันหลายครั้ง<br>**แปลผ่าน Gemini:** Key clustering ใน Localazy คือฟังก์ชันที่ช่วยให้เรา รวมกลุ่มข้อความซ้ำๆ ในแอปเข้าด้วยกัน เพื่อให้เรา แปลเพียงครั้งเดียว แล้วข้อความนั้นจะถูกอัปเดต ทุกที่ที่ใช้ ในแอปทันที ทำให้เรา ประหยัดเวลา และ ลดความผิดพลาด ในการแปลได้อย่างมาก โดยที่ ไม่ต้องแก้ไขโค้ด ของแอปแต่อย่างใด |
 
-## Key Clustering Overview
-
-                                                                                                                                                  |
-|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+## Key Clustering Overview                                                                                                             
 |   การเลือก ขนาดคีย์ (Key Size) ที่เหมาะสมช่วยเพิ่มความปลอดภัยของข้อมูล ขณะที่ Key Clustering ใน Localazy ช่วยลดการแปลข้อความซ้ำซ้อน ประหยัดเวลาและทรัพยากร ทั้งสองเทคโนโลยีเสริมกันเพื่อให้ระบบปลอดภัยและจัดการข้อมูลได้อย่างมีประสิทธิภาพ |
 
 ## ตัวอย่างในชีวิตประจำวันของ Key Clustering
