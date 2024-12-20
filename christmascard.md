@@ -1,5 +1,5 @@
 # 
 
-![Cm](pic/download (1).png)
+![Cm](pic/cr.png)
 
 [กลับหน้าแรก](https://Sorravitmp.github.io)
