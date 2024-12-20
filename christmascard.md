@@ -1,5 +1,5 @@
 # 🎅
 
-![Cm](pic/6530250590 CARD.png)
+![Cm](pic/cm.png)
 
 [กลับหน้าแรก](https://Sorravitmp.github.io)
