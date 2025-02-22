@@ -11,6 +11,6 @@
 
 ## [Uniqueness](uniqueness.md)
 
-## [Security](security-control.md)
+## [Security-Control](security-control.md)
 
-## [Seacurity-Requirements](seacurityrequirements.md)
+## [Seacurity-Requirements](security-requirements.md)
