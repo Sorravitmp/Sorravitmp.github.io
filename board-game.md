@@ -33,7 +33,8 @@
 [⬆️ ⬆️ ⬆️ Cilck เลย ⬆️ ⬆️ ⬆️](https://www.youtube.com/watch?v=jSjYxhDBHN0)
 ## สมาชิกภายในกลุ่ม
 
-1. [Hannarong Supapun](https://deldel-p.github.io)
+
+1. [Sorravit Meephol](https://sorravitmp.github.io)
 
 2. [Krit Chanthim](https://6530250000.github.io)
 
@@ -45,6 +46,7 @@
 
 6. [Punyavee Somboonranee](https://punyavee0.github.io)
 
-7. [Sorravit Meephol](https://sorravitmp.github.io)
+7. [Hannarong Supapun]
+(https://deldel-p.github.io)
 
 8. [Thirawat Siripanich](https://captainnn3.github.io)
