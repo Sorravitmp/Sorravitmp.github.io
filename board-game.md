@@ -46,7 +46,6 @@
 
 6. [Punyavee Somboonranee](https://punyavee0.github.io)
 
-7. [Hannarong Supapun]
-(https://deldel-p.github.io)
+7. [Hannarong Supapun](https://deldel-p.github.io)
 
-8. [Thirawat Siripanich](https://captainnn3.github.io)
+9. [Thirawat Siripanich](https://captainnn3.github.io)
